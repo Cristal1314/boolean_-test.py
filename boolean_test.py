@@ -45,12 +45,12 @@ else:
 # Input: Password (string)
 
 # Output: "Password is strong." or "Password is weak."
-password=("enter a password that has 8 characters :")
+# password=("enter a password that has 8 characters :")
 
-if password == (password >= len(8) and password == digit any(0-9)) :
-    print("Password is strong")
-else:
-    print("Password is weak ")
+# if password == (password >= len(8) and password == digit any(0-9)) :
+#     print("Password is strong")
+# else:
+#     print("Password is weak ")
 # Hint: 
 # Use the len() function to check the length and the any() function with a generator expression to check for a digit.
 
